@@ -11,6 +11,7 @@ ff05dcdf90651c3d98a9cad3df5e471e UnityEngine.Timeline.dll:UnityEngine.Timeline.C
 6af7378a45ad6da4992a71ef50ddc2eb UnityEngine.Timeline.dll:UnityEngine.Timeline.GroupTrack
 6af7378a45ad6da4992a71ef50ddc2eb UnityEngine.Timeline.dll:UnityEngine.Timeline.PlayableTrack
 af723155c251fcfa0e66530a75f3ea4c UnityEngine.Timeline.dll:UnityEngine.Timeline.TimelineAsset
+378959ee03ac8d549f9ae9212288f1d5 Assembly-CSharp.dll:.DogController
 a35dc9cca2faebc5f5f1aeb9e8e47bbe UnityEngine.UI.dll:UnityEngine.UI.AspectRatioFitter
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.UI.dll:UnityEngine.EventSystems.BaseInput
 49cd62a578efc0a599b810a2b66cd49c UnityEngine.UI.dll:UnityEngine.UI.Button
@@ -110,6 +111,7 @@ bc68edb0af574bf79f9550ead8ebae5c UnityEngine.HoloLens.dll:UnityEngine.Audio.Audi
 c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingCollider
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
 f9abfeae667d7339cda527283b1c5b42 Assembly-CSharp.dll:.CreateStones
+d416e7b7b4f5c3c55d048374d9529967 Assembly-CSharp.dll:.Statistics
 fc1e0f4d8439d9928083474691511a13 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Networking.dll:UnityEngine.Networking.NetworkBehaviour
 60b2bb652410a5867a5ab9a01cd38461 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkDiscovery
@@ -137,5 +139,5 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 9de3a22eca9aefadba2d10d5987cefe3 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 a1bcba5b62d88286468dc28913bfd36f Assembly-CSharp.dll:.ControlButtons
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.BombTimer
-378959ee03ac8d549f9ae9212288f1d5 Assembly-CSharp.dll:.DogController
-3a5cb10c6e644d1c3bdc6634f6ffe7d8 Assembly-CSharp.dll:.Statistics
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.gameover
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.PigWithDog

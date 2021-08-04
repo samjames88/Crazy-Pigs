@@ -23,6 +23,7 @@ GameObject:
   - component: {fileID: 95457980773028562}
   - component: {fileID: 114520756732916200}
   - component: {fileID: 65916652038411802}
+  - component: {fileID: 54221292939149274}
   m_Layer: 0
   m_Name: bomb
   m_TagString: bomb
@@ -43,6 +44,21 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &54221292939149274
+Rigidbody:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1719417715204830}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 126
+  m_CollisionDetection: 0
 --- !u!65 &65916652038411802
 BoxCollider:
   m_ObjectHideFlags: 1
@@ -51,9 +67,9 @@ BoxCollider:
   m_GameObject: {fileID: 1719417715204830}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 2
-  m_Size: {x: 2.3, y: 2.3, z: 1}
+  m_Size: {x: 1.5, y: 1.5, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!95 &95457980773028562
 Animator:
